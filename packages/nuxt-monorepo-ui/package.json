@@ -1,0 +1,12 @@
+{
+  "name": "nuxt-monorepo-ui",
+  "version": "1.0.0",
+  "description": "nuxt module with ui components",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ed Shamshurin",
+  "license": "ISC"
+}
